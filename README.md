@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThisalDinuwara
-- 👀 I’m interested in UI UX designing
+- 👀 I’m interested in UI UX designing & Programming
 - 🌱 I’m currently learning Software Engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
