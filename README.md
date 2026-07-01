@@ -1,5 +1,5 @@
 <!-- ===== ANIMATED HEADER WAVE ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=200&section=header&text=Thisal%20Dinuwara&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Experienced%20Web%20Developer&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=200&section=header&text=Thisal%20Dinuwara&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" />
 
 <!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
